@@ -6,3 +6,6 @@ If you have additional data, you may include the file name as a parameter: "./as
 
 
 Note: This code does NOT check for errors in your additional file name. So if you misspell it, the code might just break or yell at you!
+
+## Proof of Execution
+![Proof of Execution Screenshot](/Assignment3Execution.png)
